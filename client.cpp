@@ -1,3 +1,8 @@
+#include <iostream>
+#include <sstream>
+#include <vector>
+
+using namespace std;
 class Endereco{
 private:
     string logradouro;
@@ -41,6 +46,6 @@ public:
 };
 
 
-int main)
+int main()
 {return 0;
 }
